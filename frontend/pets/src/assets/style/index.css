@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "PingFangSC";
+  src: url(./PingFangSC-Semibold.ttf);
+}
+body{
+  font-family: "PingFangSC";
+}
