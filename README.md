@@ -1,6 +1,7 @@
 # pets（宠萌）
 
 前后端项目：前端Vue3+TS， 后端： nodejs+koa
+项目访问地址: http://pets.wgzero.com/#/home
 
 ### 1.前端项目文件---frontend
 
